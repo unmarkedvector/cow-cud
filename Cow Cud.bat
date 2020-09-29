@@ -1,5 +1,6 @@
 ::Cow Cud - A program to clear unnecesarry browser data to free space.
 ::developer42, 2020
+::Published by developer42 on unmarkedvector on Tues, Sept. 29
 @echo off
 title Cow Cud
 timout 1 >nul
