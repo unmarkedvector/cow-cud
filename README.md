@@ -14,5 +14,5 @@ I plan to add in more features and browsers later in the week.
 - Debug Edge
 
 unmarkedvector, 2020
-sitronode, 2020
+sintrode, 2020
 developer42, 2020
